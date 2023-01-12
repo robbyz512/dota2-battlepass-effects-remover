@@ -1,0 +1,12 @@
+#--------------------------------------------------------------------------------------------  
+# >> if app does not start check logs.txt for errors or use default settings.txt you might have misconfigured this file
+# >> adding vpk file: https://github.com/robbyz512/dota2-minify/wiki/Dota2-Modding-Tutorials#vpk-basics
+# 
+# path -- is the location to your "dota 2 beta" folder
+# keep_cosmetic_effects -- change false to true to keep item effects gained through cosmetics and arcanas
+# -------------------------------------------------------------------------------------------                                                                                                              
+# Follow me on github for more dota2 projects:  https://github.com/robbyz512                                                                                                            
+#--------------------------------------------------------------------------------------------     
+
+path=C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta
+keep_cosmetic_effects=false
