@@ -1,6 +1,8 @@
 <br>
 
-<p align="center" style="font-size:20px">
+# battlepass-patcher
+
+<p style="font-size:20px">
 Removes effect modifiers from battlepasses and anything else that tries to change effects (cosmetics, tournament games..etc)
 </p>
 
@@ -24,6 +26,8 @@ Removes effect modifiers from battlepasses and anything else that tries to chang
 Instructions in settings.txt
 
 ## Download
+
+https://github.com/robbyz512/dota2-battlepass-effects-remover/releases/tag/1.0
 
 ## Compile Instructions
 
