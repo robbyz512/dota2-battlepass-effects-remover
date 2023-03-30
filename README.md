@@ -1,5 +1,7 @@
 <br>
 
+# I've moved on to other projects so this repo is now archived but will stay up for research and reference purposes.
+
 # battlepass-patcher
 
 <p style="font-size:20px">
